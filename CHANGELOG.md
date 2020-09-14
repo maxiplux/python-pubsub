@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
 
+### [2.0.1](https://www.github.com/googleapis/python-pubsub/compare/v2.0.0...v2.0.1) (2020-09-14)
+
+
+### Bug Fixes
+
+* pass client options to publisher and subscriber clients ([#166](https://www.github.com/googleapis/python-pubsub/issues/166)) ([#190](https://www.github.com/googleapis/python-pubsub/issues/190)) ([049ae7d](https://www.github.com/googleapis/python-pubsub/commit/049ae7d6338dff8820c67ce675431175b8f96df4))
+
 ## 2.0.0
 
 09-11-2020 05:03 PDT
